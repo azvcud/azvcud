@@ -12,7 +12,7 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 
 [![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css)](https://skillicons.dev)
 
-
+| | |
 |---|---|
 | 🗄️ SQL | Relational queries, schema design, constraints |
 | 🗄️ PL/SQL | Stored procedures, triggers, Oracle-specific logic |
