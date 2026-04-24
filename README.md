@@ -10,7 +10,7 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css,c,sql)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css,c)](https://skillicons.dev)
 
 | | |
 |---|---|
