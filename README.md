@@ -1,4 +1,4 @@
-# Hi, I'm Amir 👋
+# Hello 👋
 
 I'm a Systems Engineer from Bogotá, Colombia, with a strong foundation in software design and a deep interest in the mathematical structure of complex systems. My work lives at the intersection of two disciplines: on one side, I design and build backend software with a focus on clean architecture, solid engineering principles, and long-term maintainability; on the other, I do research in nonlinear system identification and data-driven control, where the goal is to build models that are not just accurate, but physically meaningful and computationally tractable.
 
@@ -74,7 +74,6 @@ I work on nonlinear system identification and data-driven control, with an empha
 | 🌀 Koopman Operator Theory | Bilinear realizations for lifting nonlinear dynamics |
 | 📈 NLARX Modeling | Nonlinear autoregressive models with exogenous inputs |
 | 🎯 Model Predictive Control | MPC & NMPC for trajectory tracking and robust control |
-| 🔐 Information Security | Risk management aligned with ISO/IEC 27000 |
 
 ---
 
@@ -85,10 +84,5 @@ I work on nonlinear system identification and data-driven control, with an empha
 | 🇨🇴 Spanish | Native |
 | 🇬🇧 English | Advanced — technical reading, writing & comprehension |
 | 🇩🇪 German | Basic — academic training |
-
----
-
-📫 **azvanegasc@udistrital.edu.co**
----
 
 📫 **azvanegasc@udistrital.edu.co**
