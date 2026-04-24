@@ -45,10 +45,10 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 
 | | |
 |---|---|
-| 🧱 OOP & OOD | UML, SOLID principles, object-oriented design |
-| 🔁 Functional Programming | Applied across languages — not exclusive to Haskell |
-| 🎨 GoF Design Patterns | Strategy, Mediator, Decorator |
-| 🗂️ Relational Databases | ER & relational diagramming, normalization, schema design |
+| 🧱 OOP & OOD | UML, SOLID principles, Object-oriented Design, etc. |
+| 🔁 Functional Programming | Inmutability, Lazy programming, Recursive Programming, High-order functions, etc. |
+| 🎨 GoF Design Patterns | Strategy, Mediator, Decorator, etc. |
+| 🗂️ Relational Databases | ER diagramming, normalization, schema design, relational algebra, etc. |
 
 ---
 
