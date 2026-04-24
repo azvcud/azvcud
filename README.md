@@ -54,7 +54,7 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 
 ## 🔬 Researcher
 
-I work on nonlinear system identification and data-driven control, with an emphasis on methods that combine machine learning with physical structure. My research targets systems where neither pure data-driven nor purely analytical approaches are sufficient on their own.
+I work on nonlinear system identification and data-driven control, with an emphasis on methods that combine deep learning with physical structure. My research targets systems where neither pure data-driven nor purely analytical approaches are sufficient on their own.
 
 **Languages & Tools**
 
