@@ -12,7 +12,8 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 
 [![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css)](https://skillicons.dev)
 
-| | |
+
+|---|---|
 | 🗄️ SQL | Relational queries, schema design, constraints |
 | 🗄️ PL/SQL | Stored procedures, triggers, Oracle-specific logic |
 
@@ -21,6 +22,7 @@ I focus on building efficient, scalable, and well-structured systems. I care dee
 [![Frameworks](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 | | |
+|---|---|
 | λ Scotty | Lightweight Haskell web framework |
 | λ Cabal | Haskell build system & package manager |
 | 🔗 REST API | Design and consumption of RESTful services |
