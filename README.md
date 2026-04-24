@@ -4,13 +4,13 @@ I'm a Systems Engineer from Bogotá, Colombia, with a strong foundation in softw
 
 ---
 
-## 💻 Backend Developer
+## 💻 Software Developer
 
 I focus on building efficient, scalable, and well-structured systems. I care deeply about design principles, clean abstractions, and code that communicates intent clearly.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,haskell,bash,html,css,c,sql)](https://skillicons.dev)
 
 | | |
 |---|---|
